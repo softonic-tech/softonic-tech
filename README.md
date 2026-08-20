@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **August 20, 2026 · 17:26 UTC**
+📅 Last refreshed: **August 20, 2026 · 17:40 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “First, solve the problem. Then, write the code.”
+> “No matter how tall the mountain is, it cannot block the sun.”
 >
-> — **John Johnson**
+> — **Chinese Proverb**
 <!--END_SECTION:quote-->
 
 ---
