@@ -1,0 +1,50 @@
+name: Daily Profile Update
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "README.md"
+      - "dist/**"
+
+concurrency:
+  group: daily-profile-update
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Refresh quote and timestamp
+        run: python3 scripts/update-profile.py
+
+      - name: Commit daily refresh
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: daily profile refresh"
+          commit_user_name: softonic-tech
+          commit_user_email: 285798712+softonic-tech@users.noreply.github.com
+          commit_author: softonic-tech <285798712+softonic-tech@users.noreply.github.com>
+          file_pattern: README.md dist/*.svg

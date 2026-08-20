@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" role="img" aria-label="Contribution snake placeholder">
+  <rect width="800" height="120" rx="16" fill="#0d1117"/>
+  <text x="400" y="68" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="18">
+    Snake animation appears after the first workflow run
+  </text>
+</svg>
