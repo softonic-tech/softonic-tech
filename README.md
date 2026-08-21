@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **August 20, 2026 · 17:40 UTC**
+📅 Last refreshed: **August 21, 2026 · 08:51 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “No matter how tall the mountain is, it cannot block the sun.”
+> “Listen to the secret sound, the real sound, which is inside you.”
 >
-> — **Chinese Proverb**
+> — **Kabir**
 <!--END_SECTION:quote-->
 
 ---
