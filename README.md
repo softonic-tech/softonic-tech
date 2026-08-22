@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **August 21, 2026 · 08:51 UTC**
+📅 Last refreshed: **August 22, 2026 · 08:39 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Listen to the secret sound, the real sound, which is inside you.”
+> “Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.”
 >
-> — **Kabir**
+> — **Nikola Tesla**
 <!--END_SECTION:quote-->
 
 ---
