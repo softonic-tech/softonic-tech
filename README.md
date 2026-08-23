@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **August 22, 2026 · 08:39 UTC**
+📅 Last refreshed: **August 23, 2026 · 08:40 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.”
+> “The biggest adventure you can ever take is to live the life of your dreams.”
 >
-> — **Nikola Tesla**
+> — **Oprah Winfrey**
 <!--END_SECTION:quote-->
 
 ---
