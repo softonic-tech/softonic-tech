@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **August 23, 2026 · 08:40 UTC**
+📅 Last refreshed: **August 24, 2026 · 08:57 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “The biggest adventure you can ever take is to live the life of your dreams.”
+> “The quicker you let go of old cheese, the sooner you find new cheese.”
 >
-> — **Oprah Winfrey**
+> — **Spencer Johnson**
 <!--END_SECTION:quote-->
 
 ---
