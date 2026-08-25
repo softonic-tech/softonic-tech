@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **August 24, 2026 · 08:57 UTC**
+📅 Last refreshed: **August 25, 2026 · 08:52 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “The quicker you let go of old cheese, the sooner you find new cheese.”
+> “Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.”
 >
-> — **Spencer Johnson**
+> — **Denis Waitley**
 <!--END_SECTION:quote-->
 
 ---
