@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **August 25, 2026 · 08:52 UTC**
+📅 Last refreshed: **August 26, 2026 · 08:53 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.”
+> “A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.”
 >
-> — **Denis Waitley**
+> — **Charles Dickens**
 <!--END_SECTION:quote-->
 
 ---
