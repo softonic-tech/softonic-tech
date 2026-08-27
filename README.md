@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **August 26, 2026 · 08:53 UTC**
+📅 Last refreshed: **August 27, 2026 · 19:01 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.”
+> “Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.”
 >
-> — **Charles Dickens**
+> — **Richard Bach**
 <!--END_SECTION:quote-->
 
 ---
