@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **August 27, 2026 · 19:01 UTC**
+📅 Last refreshed: **August 28, 2026 · 20:09 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.”
+> “Whatever you decide to do, make sure it makes you happy.”
 >
-> — **Richard Bach**
+> — **Paulo Coelho**
 <!--END_SECTION:quote-->
 
 ---
