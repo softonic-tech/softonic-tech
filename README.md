@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **August 28, 2026 · 20:09 UTC**
+📅 Last refreshed: **August 29, 2026 · 13:47 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Whatever you decide to do, make sure it makes you happy.”
+> “Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.”
 >
-> — **Paulo Coelho**
+> — **Celestine Chua**
 <!--END_SECTION:quote-->
 
 ---
