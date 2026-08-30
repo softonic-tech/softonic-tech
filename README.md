@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **August 29, 2026 · 13:47 UTC**
+📅 Last refreshed: **August 30, 2026 · 13:45 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.”
+> “Keep your eyes on the goal, and just keep taking the next step towards completing it.”
 >
-> — **Celestine Chua**
+> — **John Carmack**
 <!--END_SECTION:quote-->
 
 ---
