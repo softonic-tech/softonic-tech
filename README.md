@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **August 30, 2026 · 13:45 UTC**
+📅 Last refreshed: **August 31, 2026 · 16:06 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Keep your eyes on the goal, and just keep taking the next step towards completing it.”
+> “To a mind that is still, the entire universe surrenders.”
 >
-> — **John Carmack**
+> — **Zhuangzi**
 <!--END_SECTION:quote-->
 
 ---
