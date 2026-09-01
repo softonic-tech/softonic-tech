@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **August 31, 2026 · 16:06 UTC**
+📅 Last refreshed: **September 01, 2026 · 13:26 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “To a mind that is still, the entire universe surrenders.”
+> “Make it work, make it right, make it fast.”
 >
-> — **Zhuangzi**
+> — **Kent Beck**
 <!--END_SECTION:quote-->
 
 ---
