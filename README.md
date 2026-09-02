@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 01, 2026 · 13:26 UTC**
+📅 Last refreshed: **September 02, 2026 · 12:43 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Make it work, make it right, make it fast.”
+> “Force has no place where there is need of skill.”
 >
-> — **Kent Beck**
+> — **Herodotus**
 <!--END_SECTION:quote-->
 
 ---
