@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 02, 2026 · 12:43 UTC**
+📅 Last refreshed: **September 03, 2026 · 12:46 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Force has no place where there is need of skill.”
+> “If you don't find the time, if you don't do the work, you don't get the results.”
 >
-> — **Herodotus**
+> — **Arnold Schwarzenegger**
 <!--END_SECTION:quote-->
 
 ---
