@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 05, 2026 · 11:47 UTC**
+📅 Last refreshed: **September 06, 2026 · 12:05 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “However difficult life may seem, there is always something you can do and succeed at.”
+> “A man with outward courage dares to die: a man with inner courage dares to live.”
 >
-> — **Stephen Hawking**
+> — **Lao Tzu**
 <!--END_SECTION:quote-->
 
 ---
