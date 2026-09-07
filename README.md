@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 06, 2026 · 12:05 UTC**
+📅 Last refreshed: **September 07, 2026 · 14:11 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “A man with outward courage dares to die: a man with inner courage dares to live.”
+> “The greatest treasures are those invisible to the eye but found by the heart.”
 >
-> — **Lao Tzu**
+> — **Judy Garland**
 <!--END_SECTION:quote-->
 
 ---
