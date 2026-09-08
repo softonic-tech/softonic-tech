@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 07, 2026 · 14:11 UTC**
+📅 Last refreshed: **September 08, 2026 · 12:49 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “The greatest treasures are those invisible to the eye but found by the heart.”
+> “High thoughts must have high language.”
 >
-> — **Judy Garland**
+> — **Aristophanes**
 <!--END_SECTION:quote-->
 
 ---
