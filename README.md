@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 08, 2026 · 12:49 UTC**
+📅 Last refreshed: **September 09, 2026 · 12:54 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “High thoughts must have high language.”
+> “We are all like the bright moon, we still have our darker side.”
 >
-> — **Aristophanes**
+> — **Kahlil Gibran**
 <!--END_SECTION:quote-->
 
 ---
