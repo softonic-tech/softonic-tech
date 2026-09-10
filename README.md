@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 09, 2026 · 12:54 UTC**
+📅 Last refreshed: **September 10, 2026 · 12:52 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “We are all like the bright moon, we still have our darker side.”
+> “Simple words, repeated daily, can change your life.”
 >
-> — **Kahlil Gibran**
+> — **Maxime Lagace**
 <!--END_SECTION:quote-->
 
 ---
