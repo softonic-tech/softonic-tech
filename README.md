@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 10, 2026 · 12:52 UTC**
+📅 Last refreshed: **September 11, 2026 · 12:46 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Simple words, repeated daily, can change your life.”
+> “It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.”
 >
-> — **Maxime Lagace**
+> — **Ming-Dao Deng**
 <!--END_SECTION:quote-->
 
 ---
