@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 11, 2026 · 12:46 UTC**
+📅 Last refreshed: **September 12, 2026 · 12:06 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.”
+> “He who leaves the game wins it.”
 >
-> — **Ming-Dao Deng**
+> — **Nicolas Chamfort**
 <!--END_SECTION:quote-->
 
 ---
