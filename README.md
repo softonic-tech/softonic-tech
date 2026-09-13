@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 12, 2026 · 12:06 UTC**
+📅 Last refreshed: **September 13, 2026 · 13:16 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “He who leaves the game wins it.”
+> “Everyday is a second chance.”
 >
-> — **Nicolas Chamfort**
+> — **Unknown**
 <!--END_SECTION:quote-->
 
 ---
