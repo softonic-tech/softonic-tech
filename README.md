@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 13, 2026 · 13:16 UTC**
+📅 Last refreshed: **September 14, 2026 · 14:57 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Everyday is a second chance.”
+> “If you spend too much time thinking about a thing, you'll never get it done.”
 >
-> — **Unknown**
+> — **Bruce Lee**
 <!--END_SECTION:quote-->
 
 ---
