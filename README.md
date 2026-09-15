@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 14, 2026 · 14:57 UTC**
+📅 Last refreshed: **September 15, 2026 · 13:25 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “If you spend too much time thinking about a thing, you'll never get it done.”
+> “Code is like humor. When you have to explain it, it's bad.”
 >
-> — **Bruce Lee**
+> — **Cory House**
 <!--END_SECTION:quote-->
 
 ---
