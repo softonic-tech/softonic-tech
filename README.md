@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 15, 2026 · 13:25 UTC**
+📅 Last refreshed: **September 16, 2026 · 13:24 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Code is like humor. When you have to explain it, it's bad.”
+> “Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.”
 >
-> — **Cory House**
+> — **Brian Tracy**
 <!--END_SECTION:quote-->
 
 ---
