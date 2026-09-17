@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 16, 2026 · 13:24 UTC**
+📅 Last refreshed: **September 17, 2026 · 13:20 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.”
+> “When things go wrong, don't go with them.”
 >
-> — **Brian Tracy**
+> — **Elvis Presley**
 <!--END_SECTION:quote-->
 
 ---
