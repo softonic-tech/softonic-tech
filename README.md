@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 17, 2026 · 13:20 UTC**
+📅 Last refreshed: **September 18, 2026 · 12:57 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “When things go wrong, don't go with them.”
+> “Till it has loved, no man or woman can become itself.”
 >
-> — **Elvis Presley**
+> — **Emily Dickinson**
 <!--END_SECTION:quote-->
 
 ---
