@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 18, 2026 · 12:57 UTC**
+📅 Last refreshed: **September 19, 2026 · 12:26 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Till it has loved, no man or woman can become itself.”
+> “Make your mind your own business.”
 >
-> — **Emily Dickinson**
+> — **Jack Butcher**
 <!--END_SECTION:quote-->
 
 ---
