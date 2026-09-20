@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 19, 2026 · 12:26 UTC**
+📅 Last refreshed: **September 20, 2026 · 13:00 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Make your mind your own business.”
+> “A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.”
 >
-> — **Jack Butcher**
+> — **Henry Ward Beecher**
 <!--END_SECTION:quote-->
 
 ---
