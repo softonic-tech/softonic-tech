@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 20, 2026 · 13:00 UTC**
+📅 Last refreshed: **September 21, 2026 · 15:02 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.”
+> “The smallest act of kindness is worth more than the greatest intention.”
 >
-> — **Henry Ward Beecher**
+> — **Kahlil Gibran**
 <!--END_SECTION:quote-->
 
 ---
