@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 21, 2026 · 15:02 UTC**
+📅 Last refreshed: **September 22, 2026 · 13:20 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “The smallest act of kindness is worth more than the greatest intention.”
+> “Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.”
 >
-> — **Kahlil Gibran**
+> — **Samuel Butler**
 <!--END_SECTION:quote-->
 
 ---
