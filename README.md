@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 22, 2026 · 13:20 UTC**
+📅 Last refreshed: **September 23, 2026 · 13:34 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.”
+> “When we strive to become better than we are, everything around us becomes better, too.”
 >
-> — **Samuel Butler**
+> — **Paulo Coelho**
 <!--END_SECTION:quote-->
 
 ---
