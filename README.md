@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 23, 2026 · 13:34 UTC**
+📅 Last refreshed: **September 24, 2026 · 13:29 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “When we strive to become better than we are, everything around us becomes better, too.”
+> “You are what you believe in. You become that which you believe you can become.”
 >
-> — **Paulo Coelho**
+> — **Bhagavad Gita**
 <!--END_SECTION:quote-->
 
 ---
