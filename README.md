@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 24, 2026 · 13:29 UTC**
+📅 Last refreshed: **September 25, 2026 · 13:35 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “You are what you believe in. You become that which you believe you can become.”
+> “Give so much away people insist on paying you.”
 >
-> — **Bhagavad Gita**
+> — **Jack Butcher**
 <!--END_SECTION:quote-->
 
 ---
