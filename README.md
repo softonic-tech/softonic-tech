@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 25, 2026 · 13:35 UTC**
+📅 Last refreshed: **September 26, 2026 · 12:57 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Give so much away people insist on paying you.”
+> “If you get up one more time than you fall, you will make it through.”
 >
-> — **Jack Butcher**
+> — **Chinese Proverb**
 <!--END_SECTION:quote-->
 
 ---
