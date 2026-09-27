@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 26, 2026 · 12:57 UTC**
+📅 Last refreshed: **September 27, 2026 · 13:48 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “If you get up one more time than you fall, you will make it through.”
+> “Don't let your learning lead to knowledge. Let your learning lead to action.”
 >
-> — **Chinese Proverb**
+> — **Jim Rohn**
 <!--END_SECTION:quote-->
 
 ---
