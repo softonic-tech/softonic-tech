@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 28, 2026 · 16:42 UTC**
+📅 Last refreshed: **September 29, 2026 · 14:47 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “One mistake does not have to rule a person's entire life.”
+> “Talk is cheap. Show me the code.”
 >
-> — **Joyce Meyer**
+> — **Linus Torvalds**
 <!--END_SECTION:quote-->
 
 ---
