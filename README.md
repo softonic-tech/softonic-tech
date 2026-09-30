@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **September 29, 2026 · 14:47 UTC**
+📅 Last refreshed: **September 30, 2026 · 14:51 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Talk is cheap. Show me the code.”
+> “If you've made a mistake, it's better just to laugh at it.”
 >
-> — **Linus Torvalds**
+> — **Zen Proverb**
 <!--END_SECTION:quote-->
 
 ---
