@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 01, 2026 · 15:21 UTC**
+📅 Last refreshed: **October 02, 2026 · 14:40 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “When you stop questioning, you stop learning.”
+> “First, solve the problem. Then, write the code.”
 >
-> — **Lolly Daskal**
+> — **John Johnson**
 <!--END_SECTION:quote-->
 
 ---
