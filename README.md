@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 02, 2026 · 14:40 UTC**
+📅 Last refreshed: **October 03, 2026 · 13:16 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “First, solve the problem. Then, write the code.”
+> “We are born from a quiet sleep, and we die to a calm awakening”
 >
-> — **John Johnson**
+> — **Zhuangzi**
 <!--END_SECTION:quote-->
 
 ---
