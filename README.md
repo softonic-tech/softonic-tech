@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 03, 2026 · 13:16 UTC**
+📅 Last refreshed: **October 04, 2026 · 13:53 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “We are born from a quiet sleep, and we die to a calm awakening”
+> “Would you rather learn to deal with the truth now than be forced to do so later on?”
 >
-> — **Zhuangzi**
+> — **Celestine Chua**
 <!--END_SECTION:quote-->
 
 ---
