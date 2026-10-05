@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 04, 2026 · 13:53 UTC**
+📅 Last refreshed: **October 05, 2026 · 17:04 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Would you rather learn to deal with the truth now than be forced to do so later on?”
+> “Engage in those actions and thoughts that nurture the good qualities you want to have.”
 >
-> — **Celestine Chua**
+> — **Paramahansa Yogananda**
 <!--END_SECTION:quote-->
 
 ---
