@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 05, 2026 · 17:04 UTC**
+📅 Last refreshed: **October 06, 2026 · 15:00 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Engage in those actions and thoughts that nurture the good qualities you want to have.”
+> “A gentleman is one who puts more into the world than he takes out.”
 >
-> — **Paramahansa Yogananda**
+> — **George Bernard Shaw**
 <!--END_SECTION:quote-->
 
 ---
