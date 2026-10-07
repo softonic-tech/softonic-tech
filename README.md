@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 06, 2026 · 15:00 UTC**
+📅 Last refreshed: **October 07, 2026 · 15:28 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “A gentleman is one who puts more into the world than he takes out.”
+> “Be happy now, without reason - or you never will be at all.”
 >
-> — **George Bernard Shaw**
+> — **Dan Millman**
 <!--END_SECTION:quote-->
 
 ---
