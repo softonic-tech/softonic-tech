@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 07, 2026 · 15:28 UTC**
+📅 Last refreshed: **October 08, 2026 · 15:29 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Be happy now, without reason - or you never will be at all.”
+> “Success is not how high you have climbed, but how you make a positive difference to the world.”
 >
-> — **Dan Millman**
+> — **Roy T. Bennett**
 <!--END_SECTION:quote-->
 
 ---
