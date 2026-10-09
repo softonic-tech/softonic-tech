@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 08, 2026 · 15:29 UTC**
+📅 Last refreshed: **October 09, 2026 · 15:12 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Success is not how high you have climbed, but how you make a positive difference to the world.”
+> “The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.”
 >
-> — **Roy T. Bennett**
+> — **Ray Bradbury**
 <!--END_SECTION:quote-->
 
 ---
