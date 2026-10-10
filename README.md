@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 09, 2026 · 15:12 UTC**
+📅 Last refreshed: **October 10, 2026 · 14:25 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.”
+> “Ability is a poor man's wealth.”
 >
-> — **Ray Bradbury**
+> — **John Wooden**
 <!--END_SECTION:quote-->
 
 ---
