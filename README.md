@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 10, 2026 · 14:25 UTC**
+📅 Last refreshed: **October 11, 2026 · 14:51 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Ability is a poor man's wealth.”
+> “You only live once, but if you do it right, once is enough.”
 >
-> — **John Wooden**
+> — **Mae West**
 <!--END_SECTION:quote-->
 
 ---
