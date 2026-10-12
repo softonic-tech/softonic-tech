@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 11, 2026 · 14:51 UTC**
+📅 Last refreshed: **October 12, 2026 · 17:42 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “You only live once, but if you do it right, once is enough.”
+> “Those who know, do. Those that understand, teach.”
 >
-> — **Mae West**
+> — **Aristotle**
 <!--END_SECTION:quote-->
 
 ---
