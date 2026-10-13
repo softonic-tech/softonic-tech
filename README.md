@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 12, 2026 · 17:42 UTC**
+📅 Last refreshed: **October 13, 2026 · 15:51 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Those who know, do. Those that understand, teach.”
+> “Life can be the scariest and most beautiful thing simultaneously.”
 >
-> — **Aristotle**
+> — **Maxime Lagace**
 <!--END_SECTION:quote-->
 
 ---
