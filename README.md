@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 13, 2026 · 15:51 UTC**
+📅 Last refreshed: **October 14, 2026 · 13:35 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Life can be the scariest and most beautiful thing simultaneously.”
+> “Genius is one percent inspiration and ninety-nine percent perspiration.”
 >
-> — **Maxime Lagace**
+> — **Thomas Edison**
 <!--END_SECTION:quote-->
 
 ---
