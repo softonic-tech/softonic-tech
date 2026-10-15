@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 14, 2026 · 13:35 UTC**
+📅 Last refreshed: **October 15, 2026 · 13:18 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Genius is one percent inspiration and ninety-nine percent perspiration.”
+> “Everything eaten is killed. Every meal is a sacrifice.”
 >
-> — **Thomas Edison**
+> — **Adi Da Samraj**
 <!--END_SECTION:quote-->
 
 ---
