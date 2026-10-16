@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 15, 2026 · 13:18 UTC**
+📅 Last refreshed: **October 16, 2026 · 13:10 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Everything eaten is killed. Every meal is a sacrifice.”
+> “As we first succeed, we will find ourselves in new situations, facing new problems.”
 >
-> — **Adi Da Samraj**
+> — **Ryan Holiday**
 <!--END_SECTION:quote-->
 
 ---
