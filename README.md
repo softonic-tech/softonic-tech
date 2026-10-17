@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 16, 2026 · 13:10 UTC**
+📅 Last refreshed: **October 17, 2026 · 12:06 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “As we first succeed, we will find ourselves in new situations, facing new problems.”
+> “You've got to get up every morning with determination if you're going to go to bed with satisfaction.”
 >
-> — **Ryan Holiday**
+> — **George Lorimer**
 <!--END_SECTION:quote-->
 
 ---
