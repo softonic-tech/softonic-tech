@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 19, 2026 · 15:30 UTC**
+📅 Last refreshed: **October 20, 2026 · 13:30 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “The secret of change is to focus all your energy not on fighting the old, but on building the new.”
+> “Success is about doing the right thing, not about doing everything right.”
 >
-> — **Colin R. Davis**
+> — **Gary Keller**
 <!--END_SECTION:quote-->
 
 ---
