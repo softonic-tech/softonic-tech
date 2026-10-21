@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 20, 2026 · 13:30 UTC**
+📅 Last refreshed: **October 21, 2026 · 13:40 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Success is about doing the right thing, not about doing everything right.”
+> “Each day your life grows a day shorter. Make every move count.”
 >
-> — **Gary Keller**
+> — **Ming-Dao Deng**
 <!--END_SECTION:quote-->
 
 ---
