@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 21, 2026 · 13:40 UTC**
+📅 Last refreshed: **October 22, 2026 · 13:42 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Each day your life grows a day shorter. Make every move count.”
+> “The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.”
 >
-> — **Ming-Dao Deng**
+> — **Mark Twain**
 <!--END_SECTION:quote-->
 
 ---
