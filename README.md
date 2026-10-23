@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 22, 2026 · 13:42 UTC**
+📅 Last refreshed: **October 23, 2026 · 13:18 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.”
+> “If someone betrays you once, it's their fault; if they betray you twice, it's your fault.”
 >
-> — **Mark Twain**
+> — **Eleanor Roosevelt**
 <!--END_SECTION:quote-->
 
 ---
