@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 23, 2026 · 13:18 UTC**
+📅 Last refreshed: **October 24, 2026 · 12:36 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “If someone betrays you once, it's their fault; if they betray you twice, it's your fault.”
+> “There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.”
 >
-> — **Eleanor Roosevelt**
+> — **Henry Ward Beecher**
 <!--END_SECTION:quote-->
 
 ---
