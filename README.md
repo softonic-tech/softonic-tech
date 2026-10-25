@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 24, 2026 · 12:36 UTC**
+📅 Last refreshed: **October 25, 2026 · 13:08 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.”
+> “The wiser you get, the less you care to look like a fool.”
 >
-> — **Henry Ward Beecher**
+> — **Maxime Lagace**
 <!--END_SECTION:quote-->
 
 ---
