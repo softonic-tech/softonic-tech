@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 25, 2026 · 13:08 UTC**
+📅 Last refreshed: **October 26, 2026 · 15:06 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “The wiser you get, the less you care to look like a fool.”
+> “Loving thoughts and actions are clearly beneficial for our physical and mental health.”
 >
-> — **Maxime Lagace**
+> — **Dalai Lama**
 <!--END_SECTION:quote-->
 
 ---
