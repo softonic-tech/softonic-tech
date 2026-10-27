@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 26, 2026 · 15:06 UTC**
+📅 Last refreshed: **October 27, 2026 · 14:19 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Loving thoughts and actions are clearly beneficial for our physical and mental health.”
+> “Still your waters.”
 >
-> — **Dalai Lama**
+> — **Josh Waitzkin**
 <!--END_SECTION:quote-->
 
 ---
