@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 27, 2026 · 14:19 UTC**
+📅 Last refreshed: **October 28, 2026 · 15:01 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Still your waters.”
+> “What we dwell on is who we become.”
 >
-> — **Josh Waitzkin**
+> — **Oprah Winfrey**
 <!--END_SECTION:quote-->
 
 ---
