@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 28, 2026 · 15:01 UTC**
+📅 Last refreshed: **October 29, 2026 · 01:08 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “What we dwell on is who we become.”
+> “The more reasons you have for achieving your goal, the more determined you will become.”
 >
-> — **Oprah Winfrey**
+> — **Brian Tracy**
 <!--END_SECTION:quote-->
 
 ---
