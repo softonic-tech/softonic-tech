@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 30, 2026 · 14:59 UTC**
+📅 Last refreshed: **October 31, 2026 · 14:28 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Distant water does not put out a nearby fire.”
+> “When you believe in a thing, believe in it all the way, implicitly and unquestionable.”
 >
-> — **Chinese Proverb**
+> — **Walt Disney**
 <!--END_SECTION:quote-->
 
 ---
