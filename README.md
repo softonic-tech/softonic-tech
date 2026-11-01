@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **October 31, 2026 · 14:28 UTC**
+📅 Last refreshed: **November 01, 2026 · 14:56 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “When you believe in a thing, believe in it all the way, implicitly and unquestionable.”
+> “When something comes from within, when it is a part of you, you have no choice but to live it, to express it.”
 >
-> — **Walt Disney**
+> — **Kamal Ravikant**
 <!--END_SECTION:quote-->
 
 ---
