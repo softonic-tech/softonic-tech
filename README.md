@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 01, 2026 · 14:56 UTC**
+📅 Last refreshed: **November 02, 2026 · 18:10 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “When something comes from within, when it is a part of you, you have no choice but to live it, to express it.”
+> “If you want others to be happy, practice compassion. If you want to be happy, practice compassion.”
 >
-> — **Kamal Ravikant**
+> — **Dalai Lama**
 <!--END_SECTION:quote-->
 
 ---
