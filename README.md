@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 02, 2026 · 18:10 UTC**
+📅 Last refreshed: **November 03, 2026 · 16:05 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “If you want others to be happy, practice compassion. If you want to be happy, practice compassion.”
+> “When the time is gone, you can never get it back.”
 >
-> — **Dalai Lama**
+> — **Stephen King**
 <!--END_SECTION:quote-->
 
 ---
