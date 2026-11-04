@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 03, 2026 · 16:05 UTC**
+📅 Last refreshed: **November 04, 2026 · 16:09 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “When the time is gone, you can never get it back.”
+> “What the eye doesn't see and the mind doesn't know, doesn't exist.”
 >
-> — **Stephen King**
+> — **D. H. Lawrence**
 <!--END_SECTION:quote-->
 
 ---
