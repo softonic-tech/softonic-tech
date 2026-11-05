@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 04, 2026 · 16:09 UTC**
+📅 Last refreshed: **November 05, 2026 · 16:23 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “What the eye doesn't see and the mind doesn't know, doesn't exist.”
+> “Debt is the slavery of the free.”
 >
-> — **D. H. Lawrence**
+> — **Publilius Syrus**
 <!--END_SECTION:quote-->
 
 ---
