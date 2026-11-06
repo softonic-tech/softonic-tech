@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 05, 2026 · 16:23 UTC**
+📅 Last refreshed: **November 06, 2026 · 15:51 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Debt is the slavery of the free.”
+> “Your mind is infinite, it's your doubts that are limiting.”
 >
-> — **Publilius Syrus**
+> — **Robert Kiyosaki**
 <!--END_SECTION:quote-->
 
 ---
