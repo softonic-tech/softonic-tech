@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 06, 2026 · 15:51 UTC**
+📅 Last refreshed: **November 07, 2026 · 11:33 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Your mind is infinite, it's your doubts that are limiting.”
+> “The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.”
 >
-> — **Robert Kiyosaki**
+> — **Kamal Ravikant**
 <!--END_SECTION:quote-->
 
 ---
