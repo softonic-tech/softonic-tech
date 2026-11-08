@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 07, 2026 · 14:50 UTC**
+📅 Last refreshed: **November 08, 2026 · 14:58 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.”
+> “People spend too much time doing and not enough time thinking about what they should be doing.”
 >
-> — **Kamal Ravikant**
+> — **Naval Ravikant**
 <!--END_SECTION:quote-->
 
 ---
