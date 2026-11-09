@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 08, 2026 · 14:58 UTC**
+📅 Last refreshed: **November 09, 2026 · 18:39 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “People spend too much time doing and not enough time thinking about what they should be doing.”
+> “It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.”
 >
-> — **Naval Ravikant**
+> — **Dale Carnegie**
 <!--END_SECTION:quote-->
 
 ---
