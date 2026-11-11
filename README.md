@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 10, 2026 · 16:21 UTC**
+📅 Last refreshed: **November 11, 2026 · 16:02 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Make it work, make it right, make it fast.”
+> “A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.”
 >
-> — **Kent Beck**
+> — **Roy T. Bennett**
 <!--END_SECTION:quote-->
 
 ---
