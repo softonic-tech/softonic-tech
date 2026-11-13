@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 12, 2026 · 16:44 UTC**
+📅 Last refreshed: **November 13, 2026 · 16:06 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “In the practice of tolerance, one's enemy is the best teacher.”
+> “An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.”
 >
-> — **Dalai Lama**
+> — **John Tukey**
 <!--END_SECTION:quote-->
 
 ---
