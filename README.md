@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 13, 2026 · 16:06 UTC**
+📅 Last refreshed: **November 14, 2026 · 14:56 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.”
+> “There is nothing more frightful than ignorance in action.”
 >
-> — **John Tukey**
+> — **Johann Wolfgang von Goethe**
 <!--END_SECTION:quote-->
 
 ---
