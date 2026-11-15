@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 14, 2026 · 14:56 UTC**
+📅 Last refreshed: **November 15, 2026 · 15:34 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “There is nothing more frightful than ignorance in action.”
+> “The weak can never forgive. Forgiveness is the attribute of the strong.”
 >
-> — **Johann Wolfgang von Goethe**
+> — **Mahatma Gandhi**
 <!--END_SECTION:quote-->
 
 ---
