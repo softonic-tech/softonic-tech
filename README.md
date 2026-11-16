@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 15, 2026 · 15:34 UTC**
+📅 Last refreshed: **November 16, 2026 · 18:18 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “The weak can never forgive. Forgiveness is the attribute of the strong.”
+> “I dream my painting and I paint my dream.”
 >
-> — **Mahatma Gandhi**
+> — **Vincent van Gogh**
 <!--END_SECTION:quote-->
 
 ---
