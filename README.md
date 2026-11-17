@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 16, 2026 · 18:18 UTC**
+📅 Last refreshed: **November 17, 2026 · 17:32 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “I dream my painting and I paint my dream.”
+> “Simplicity is the soul of efficiency.”
 >
-> — **Vincent van Gogh**
+> — **Austin Freeman**
 <!--END_SECTION:quote-->
 
 ---
