@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 17, 2026 · 17:32 UTC**
+📅 Last refreshed: **November 18, 2026 · 17:09 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Simplicity is the soul of efficiency.”
+> “Silence is a source of great strength.”
 >
-> — **Austin Freeman**
+> — **Lao Tzu**
 <!--END_SECTION:quote-->
 
 ---
