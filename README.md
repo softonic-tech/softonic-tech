@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 18, 2026 · 17:09 UTC**
+📅 Last refreshed: **November 19, 2026 · 17:15 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Silence is a source of great strength.”
+> “You are never too old to become younger.”
 >
-> — **Lao Tzu**
+> — **Mae West**
 <!--END_SECTION:quote-->
 
 ---
