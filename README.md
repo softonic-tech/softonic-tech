@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 19, 2026 · 17:15 UTC**
+📅 Last refreshed: **November 20, 2026 · 11:31 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “You are never too old to become younger.”
+> “Never waste a minute of your precious life thinking about people you don't like.”
 >
-> — **Mae West**
+> — **Celestine Chua**
 <!--END_SECTION:quote-->
 
 ---
