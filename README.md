@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 21, 2026 · 16:03 UTC**
+📅 Last refreshed: **November 22, 2026 · 16:10 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “To avoid criticism, do nothing, say nothing, and be nothing.”
+> “Simplicity is the soul of efficiency.”
 >
-> — **Elbert Hubbard**
+> — **Austin Freeman**
 <!--END_SECTION:quote-->
 
 ---
