@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 23, 2026 · 20:03 UTC**
+📅 Last refreshed: **November 24, 2026 · 19:28 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Have a vision. Be demanding.”
+> “The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.”
 >
-> — **Colin Powell**
+> — **Robert Kiyosaki**
 <!--END_SECTION:quote-->
 
 ---
