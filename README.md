@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 25, 2026 · 18:36 UTC**
+📅 Last refreshed: **November 26, 2026 · 18:19 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “We have to live life with a sense of urgency so not a minute is wasted.”
+> “Keep your eyes on the stars, but remember to keep your feet on the ground.”
 >
-> — **Les Brown**
+> — **Theodore Roosevelt**
 <!--END_SECTION:quote-->
 
 ---
