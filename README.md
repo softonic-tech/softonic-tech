@@ -30,7 +30,7 @@ I design and ship **automation systems** and **web products** — from scraping 
 - 🚀 Always learning, always shipping
 
 <!--START_SECTION:updated-->
-📅 Last refreshed: **November 26, 2026 · 18:19 UTC**
+📅 Last refreshed: **November 27, 2026 · 18:03 UTC**
 <!--END_SECTION:updated-->
 
 ---
@@ -38,9 +38,9 @@ I design and ship **automation systems** and **web products** — from scraping 
 ## Daily spark
 
 <!--START_SECTION:quote-->
-> “Keep your eyes on the stars, but remember to keep your feet on the ground.”
+> “It takes half your life before you discover life is a do-it-yourself project.”
 >
-> — **Theodore Roosevelt**
+> — **Napoleon Hill**
 <!--END_SECTION:quote-->
 
 ---
